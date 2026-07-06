@@ -1,0 +1,404 @@
+Role -- I have 10+ experience in manual testing api testing , database testing and SAP testing and worked on multiple domains like e-commerce , Due diligence Air line and hospitality and created couple of Test plans same as attached Test plans . So You need to create a test plan and  test cases based on  attached PRD and it should be same format as attached. 
+
+Instructions
+
+[Critical] Ensure 100% requirements coverage. Every functional and non-functional requirement must be validated by one or more test cases.
+
+[Critical] Ensure 100% business requirement coverage. Every business rule, policy, workflow, calculation, validation, and exception must be covered.
+
+[Critical] Generate unique, meaningful, and non-redundant test cases. Each test case should validate a distinct scenario or behavior.
+
+[Critical] Avoid duplicate, overlapping, or repetitive test cases. Similar scenarios should only be included when they validate different business logic or system behavior.
+
+[Critical] Cover all user roles, permissions, workflows, and system states where applicable.
+
+[Critical] Include happy path, alternate path, exception path, and failure path scenarios.
+
+Project Name: [PROJECT_NAME]
+
+Application Type:
+
+- Web Application
+
+- Mobile Application
+
+- Enterprise Product
+
+- SaaS Platform
+
+- API Services
+
+Technology Stack:
+
+[Provide details if available]
+
+Environment:
+
+- Development
+
+- QA
+
+- UAT
+
+- Production
+
+Testing Scope:
+
+- Smoke Testing
+
+- Functional Testing
+
+- Regression Testing
+
+- Integration Testing
+
+- Negative Testing
+
+- End-to-End Testing
+
+- API Testing (if cloud-enabled)
+
+- UI Testing
+
+Usability Testing
+
+Accessibility Testing
+
+Safety Testing
+
+Performance Testing
+
+Reliability Testing
+
+Stress Testing
+
+Recovery Testing
+
+Endurance Testing
+
+Installation Testing
+
+OTA Update Testing
+
+Mobile App Testing
+
+Compatibility Testing
+
+Localization Testing
+
+=========
+
+Generate a comprehensive, enterprise-grade Test Plan and Manual Test Cases that conform to industry best practices (ISTQB, IEEE 829/29119, ISO 25010, and enterprise QA standards). The output should be complete, traceable, maintainable, and ready for execution in an enterprise QA environment.
+
+Test Plan Expectations
+
+The Test Plan should:
+
+Cover 100% of the functional, business, and non-functional requirements within the defined scope.
+
+Clearly define the testing scope, objectives, assumptions, dependencies, risks, entry criteria, exit criteria, test strategy, environments, deliverables, and execution approach.
+
+Include all applicable testing types, such as:
+
+Functional Testing
+
+Integration Testing
+
+System Testing
+
+End-to-End Testing
+
+Regression Testing
+
+Smoke Testing
+
+Sanity Testing
+
+User Acceptance Testing (UAT)
+
+Exploratory Testing
+
+Security Testing
+
+Performance Testing
+
+Compatibility Testing
+
+Accessibility Testing
+
+Localization Testing (if applicable)
+
+Identify critical business processes, high-risk modules, and production-impacting features.
+
+Define test data requirements, environment requirements, and external dependencies.
+
+Include Requirement Traceability Matrix (RTM) recommendations.
+
+Be suitable for enterprise projects and production release planning.
+
+Test Case Expectations
+
+Generate manual test cases that satisfy the following quality standards.
+
+Coverage
+
+Ensure 100% Functional Requirement Coverage.
+
+Ensure 100% Business Requirement Coverage.
+
+Ensure 100% Acceptance Criteria Coverage.
+
+Ensure 100% Business Rule Coverage.
+
+Every requirement must be mapped to one or more test cases.
+
+No requirement, workflow, or business rule should remain untested.
+
+Test Scenario Coverage
+
+Generate test cases for all applicable scenarios, including:
+
+Functional Testing
+
+Positive Scenarios
+
+Negative Scenarios
+
+Happy Path
+
+Alternate Flow
+
+Exception Flow
+
+Error Handling
+
+Business Rule Validation
+
+End-to-End Business Workflows
+
+CRUD Operations
+
+Input Validation
+
+Mandatory Field Validation
+
+Boundary Value Analysis
+
+Equivalence Partitioning
+
+State Transition Testing
+
+Workflow Validation
+
+Role-Based Access Control (RBAC)
+
+Search, Filter, Sort, and Pagination
+
+Data Validation and Data Integrity
+
+Integration Validation
+
+Notification Validation
+
+Audit and Logging Validation (if applicable)
+
+High-Risk Scenarios
+
+Business-Critical Scenarios
+
+Regression Candidates
+
+Smoke Candidates
+
+Edge Cases
+
+Recovery and Resilience Scenarios (where applicable)
+
+Business Expectations
+
+Ensure the generated test suite validates:
+
+Complete end-to-end business workflows.
+
+Business policies and business rules.
+
+Approval and exception workflows.
+
+Role and permission restrictions.
+
+Status transitions.
+
+Business calculations and formulas.
+
+Pricing, tax, discount, and financial logic (where applicable).
+
+Duplicate prevention.
+
+Data consistency and synchronization.
+
+Compliance and regulatory requirements (where applicable).
+
+Customer-impacting scenarios.
+
+Revenue-impacting scenarios.
+
+Operational continuity and business process integrity.
+
+Test Case Quality Standards
+
+Every test case should:
+
+Be unique, meaningful, and non-duplicative.
+
+Validate a single logical objective.
+
+Be independent and repeatable.
+
+Use clear, concise, and business-oriented language.
+
+Include measurable expected results.
+
+Be easy to understand by QA, Developers, Business Analysts, and Product Owners.
+
+Be suitable for future automation.
+
+Follow enterprise naming conventions and formatting standards.
+
+## P = PROCESS
+
+### Step 1: Analyze Requirements
+
+Review all project artifacts (BRD, PRD, User Stories, Acceptance Criteria, UI, API, Business Rules) and identify functional, non-functional, and business requirements.
+
+### Step 2: Identify Business Workflows
+
+Understand end-to-end business processes, critical workflows, user journeys, business rules, and integrations.
+
+### Step 3: Define Test Scope
+
+Determine in-scope and out-of-scope features, modules, interfaces, and testing types.
+
+### Step 4: Assess Risks
+
+Identify business-critical features, high-risk areas, dependencies, assumptions, and production-impacting scenarios.
+
+### Step 5: Define Test Strategy
+
+Select the appropriate testing approach, including Functional, Integration, System, Regression, Smoke, UAT, Security, Performance, and Exploratory Testing.
+
+### Step 6: Prepare Test Environment
+
+Define test environments, test data, user roles, tools, integrations, and prerequisite configurations.
+
+### Step 7: Establish Entry & Exit Criteria
+
+Define measurable conditions for starting and completing testing, including quality gates and coverage targets.
+
+### Step 8: Create Test Plan & Test Cases
+
+Develop a comprehensive Test Plan and detailed manual test cases covering positive, negative, boundary, business, integration, workflow, and edge-case scenarios.
+
+### Step 9: Validate Coverage & Traceability
+
+Ensure 100% requirement and business rule coverage, complete RTM mapping, and eliminate duplicate or overlapping test cases.
+
+### Step 10: Perform Final Review
+
+Verify completeness, consistency, enterprise QA compliance, and readiness for SIT, UAT, Regression, and Production Release.
+
+O = OUTPUT
+
+=================================================
+
+Use the exact structure from the attached test_plan_template.md.
+
+Populate all placeholders:
+
+{{PROJECT_NAME}}
+
+{{VERSION}}
+
+{{AUTHOR}}
+
+{{DATE}}
+
+{{ENVIRONMENT}}
+
+{{BROWSER}}
+
+{{IN_SCOPE}}
+
+{{OUT_OF_SCOPE}}
+
+{{BASE_URL}}
+
+{{TEST_CASES_SUMMARY}}
+
+Provide professional tables where appropriate.
+
+Generate:
+
+- Executive Summary
+
+- Risk Matrix
+
+- Test Coverage Summary
+
+- Test Deliverables
+
+- Recommended Smoke Suite
+
+=================================================
+
+T = TESTING STANDARDS
+
+=================================================
+
+Ensure the Test Plan is:
+
+- Enterprise Ready
+
+- Audit Ready
+
+- Reusable
+
+- Traceable
+
+- Risk Focused
+
+- Automation Friendly
+
+Follow:
+
+- IEEE 829 Test Plan Standards
+
+- ISTQB Test Planning Practices
+
+- ISO 29119 Documentation Standards
+
+=================================================
+
+IMPORTANT
+
+=================================================
+
+Use the attached test_plan_template.md structure exactly.
+
+If project information is missing:
+
+- Clearly identify assumptions.
+
+- Highlight missing inputs.
+
+- Provide recommended values.
+
+At the end include:
+
+1. QA Review Checklist
+
+2. Risks & Mitigations
+
+3. Automation Opportunities
+
+4. Go/No-Go Release Readiness Assessment
+
